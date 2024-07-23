@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh 🔥</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working For Stealth Design.
+- 🔭 I’m currently working For Partner IT Solutions.
 
 - 📫 How to reach me **satyamsingh7766@gmail.com**
 
